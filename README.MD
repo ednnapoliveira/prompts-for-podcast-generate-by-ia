@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src=".assets/Agentes da Cidadania.jpeg"
+    src="assets/Agentes da Cidadania.png"
     width="300"
 />
 </p>
