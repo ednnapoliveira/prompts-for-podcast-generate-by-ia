@@ -45,7 +45,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/ednnapoliveira">
         GitHub
     </a>
     &nbsp;|&nbsp;
